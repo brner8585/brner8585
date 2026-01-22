@@ -1,4 +1,4 @@
-Headline
+👋 Headline
 
 Hello, I'm a computer science major specializing in but not limited to web development. Currently a student attending the University of Florida expected to graduate in Spring 2026. I'm looking for work in the Fort Lauderdale - Miami area or remote opportunities. Interests include software applications that increase productivity, systems design and optimization, and applications of artificial intelligence.
 
